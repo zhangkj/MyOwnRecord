@@ -19,6 +19,9 @@
 3.通过tushare库对A股数据获取存入MySql中
     查看了一个策略回测
 
+4.《Python进阶》书籍中文版
+5.PyAlgoTrade
+
 todo：
 1.pandas库散点图、直方图视频；
 2.微信远程控制电脑，cmd命令介绍视频、程序脚本运行；
@@ -30,7 +33,7 @@ todo：
 1.TuShare是一个免费、开源的python财经数据接口包；
 2.tqdm 包是一个进度条工具；
 3.SQLAlchemy 包是Python最有名的ORM框架。传说中的ORM技术：Object-Relational Mapping，把关系数据库的表结构映射到对象上。
-
+4.http://nullege.com/ ,Nullege is a search engine for Python source code.
 
 
 ******************Trade
