@@ -21,6 +21,9 @@
 
 4.《Python进阶》书籍中文版
 5.PyAlgoTrade
+6.Quantopian上有一组非常不错的系列教程：Quantopian Lectures Series （这里简称【QLS】）,在JoinQuant 上有人做了一些翻译
+    例如：https://www.joinquant.com/user/47b455b22256e332fc2e14bd8bcd628b
+            https://www.joinquant.com/user/89a8405ef8826f0bcf33ea2a45a569dd
 
 todo：
 1.pandas库散点图、直方图视频；
